@@ -34,10 +34,11 @@
 <br>
 
 
-<b>3. LogIn Page</b>
+<b>4. Home Page</b>
 <br>
 <br>
-(https://github.com/IamPawan777/shopping_app/assets/112340386/3afe4b9e-a0b5-4609-aefe-bf9567edf3d3)
+![Screenshot_20240517-143733](https://github.com/IamPawan777/shopping_app/assets/112340386/d5603591-c11d-4dd1-b6b0-ec4bee430862)
+
 <br>
 <br>
 <br>
@@ -48,7 +49,9 @@
 <br>
 
 
-
+<b>5. Description Page</b>
+<br>
+<br>
 (https://github.com/IamPawan777/shopping_app/assets/112340386/3d767784-88dd-4a7f-94b5-0e799fcdd91c)
 <br>
 <br>
@@ -58,35 +61,3 @@
 <br>
 <br>
 <br>
-
-
-
-(https://github.com/IamPawan777/shopping_app/assets/112340386/636c7371-c173-489a-be27-8f6677dbd094)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-(https://github.com/IamPawan777/shopping_app/assets/112340386/1afbd93a-568a-4539-a0eb-295fa2335a35)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-(https://github.com/IamPawan777/shopping_app/assets/112340386/9245dad2-5012-41c1-a9b4-a8da2915012a)
-
-
