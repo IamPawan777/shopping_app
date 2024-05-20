@@ -1,4 +1,5 @@
-(https://github.com/IamPawan777/shopping_app/assets/112340386/7b5994ed-9973-4ac1-97b3-699aac3c1c10)
+![Screenshot_20240517-143624](https://github.com/IamPawan777/shopping_app/assets/112340386/758ead93-46ee-4c8c-9ecd-8f9a6341bcc5)
+
 <br>
 <br>
 <br>
