@@ -1,5 +1,7 @@
+<b>1. Splash Screen </b>
+<br>
+<br>
 ![Screenshot_20240517-143624](https://github.com/IamPawan777/shopping_app/assets/112340386/758ead93-46ee-4c8c-9ecd-8f9a6341bcc5)
-
 <br>
 <br>
 <br>
@@ -7,7 +9,10 @@
 <br>
 <br>
 
-(https://github.com/IamPawan777/shopping_app/assets/112340386/800fb4b4-b198-471d-965f-43988c5a4cad)
+<b>2. Section Page</b>
+<br>
+<br>
+![Screenshot_20240517-143631](https://github.com/IamPawan777/shopping_app/assets/112340386/0988f9eb-6451-447f-a946-6cedef531d93)
 <br>
 <br>
 <br>
@@ -16,8 +21,9 @@
 <br>
 
 
+<b>2. Section Page</b>
 
-(https://github.com/IamPawan777/shopping_app/assets/112340386/d0fb3409-bc47-477e-803c-0be4e7a1a504)
+
 <br>
 <br>
 <br>
